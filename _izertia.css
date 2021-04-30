@@ -1,0 +1,88 @@
+/*.izertia {*/
+img {
+  top: 130px;
+  left: 80px;
+  width: 220px;
+  height: 220px; }
+
+h1, .h1-big-claim, h2, h3, .h3-white, h4 {
+  text-align: left;
+  opacity: 1;
+  font-family: 'Montserrat', sans-serif; }
+
+h1 {
+  color: #363D58;
+  font-size: 40px;
+  font-weight: 800; }
+
+.h1-big-claim {
+  color: #1F1F1F;
+  font-size: 56px;
+  font-weight: 800; }
+
+h2 {
+  color: #1F1F1F;
+  font-size: 27px;
+  font-weight: 800; }
+
+h3 {
+  color: #1F1F1F;
+  font-size: 20px;
+  font-weight: 700; }
+
+.h3-white {
+  color: #FFFFFF;
+  font-size: 20px;
+  font-weight: 700; }
+
+h4 {
+  color: #1F1F1F;
+  font: normal normal normal 18px/25px Muli;
+  font-size: 18px;
+  letter-spacing: 0px; }
+
+.detail-text {
+  /*muli regular*/
+  font-family: muli sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 12px;
+  text-align: left;
+  opacity: 1; }
+
+body {
+  font-family: muli sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  text-align: left;
+  color: #1F1F1F;
+  opacity: 1;
+  background-color: #F7F7F7; }
+
+.rect_gris {
+  top: 90px;
+  left: 40px;
+  width: 1842px;
+  height: 300px;
+  display: block;
+  margin: auto; }
+
+table {
+  position: absolute;
+  top: 10px;
+  left: 85px;
+  width: 1842px;
+  height: 300px; }
+
+p {
+  font-family: muli,sans-serif;
+  font-weight: 600;
+  font-style: normal; }
+
+#email, .tel {
+  color: #276A83; }
+
+/*}*/
+
+/*# sourceMappingURL=_izertia.css.map */
